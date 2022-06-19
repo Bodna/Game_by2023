@@ -329,6 +329,7 @@
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll"
 "Assets/Scenes/Prototype/Scripts/CameraScript.cs"
+"Assets/Scenes/Prototype/Scripts/FootSteps.cs"
 "Assets/Scenes/Prototype/Scripts/MoveCamera.cs"
 "Assets/Scenes/Prototype/Scripts/PlayerController.cs"
 -langversion:9.0

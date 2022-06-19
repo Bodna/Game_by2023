@@ -24,7 +24,7 @@ public class PlayerController : MonoBehaviour
     [Header("Ground Check")]
     public float playerHeight;
     public LayerMask whatIsGround;
-    bool grounded;
+    public bool grounded;
 
     public Transform orientation;
 
@@ -52,6 +52,9 @@ public class PlayerController : MonoBehaviour
 
         MyInput();
         SpeedControl();
+
+        Debug.Log("MOvespeed "+moveSpeed);
+        Debug.Log("Grounded " + grounded);
 
         // handle drag
         if (grounded)

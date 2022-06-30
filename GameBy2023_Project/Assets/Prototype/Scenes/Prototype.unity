@@ -570,6 +570,9 @@ GameObject:
   - component: {fileID: 1324641021}
   - component: {fileID: 1324641023}
   - component: {fileID: 1324641024}
+<<<<<<< Updated upstream:GameBy2023_Project/Assets/Prototype/Scenes/Prototype.unity
+>>>>>>> Stashed changes:GameBy2023_Project/Assets/Scenes/Prototype/Scenes/Prototype.unity
+=======
 >>>>>>> Stashed changes:GameBy2023_Project/Assets/Scenes/Prototype/Scenes/Prototype.unity
   m_Layer: 0
   m_Name: Player
@@ -757,6 +760,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1324641017}
   m_Enabled: 1
   m_EditorHideFlags: 0
+<<<<<<< Updated upstream:GameBy2023_Project/Assets/Prototype/Scenes/Prototype.unity
   m_Script: {fileID: 11500000, guid: de6efb7a9d7964e47b37c73c906977f5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
@@ -766,6 +770,17 @@ MonoBehaviour:
   _frequencyWalking: 10.5
   _camera: {fileID: 65292400}
   _cameraHolder: {fileID: 1225837755}
+=======
+  m_Script: {fileID: 11500000, guid: 49caedb8a0a679f4bb546f4024466b8b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _enable: 1
+  _amplitude: 0.019
+  _frequencyRunning: 12.5
+  _frequencyWalking: 10.5
+  _camera: {fileID: 65292400}
+  _cameraHolder: {fileID: 1623590991}
+>>>>>>> Stashed changes:GameBy2023_Project/Assets/Scenes/Prototype/Scenes/Prototype.unity
 --- !u!136 &1324641024
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -780,6 +795,9 @@ CapsuleCollider:
   m_Height: 1
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
+<<<<<<< Updated upstream:GameBy2023_Project/Assets/Prototype/Scenes/Prototype.unity
+>>>>>>> Stashed changes:GameBy2023_Project/Assets/Scenes/Prototype/Scenes/Prototype.unity
+=======
 >>>>>>> Stashed changes:GameBy2023_Project/Assets/Scenes/Prototype/Scenes/Prototype.unity
 --- !u!1 &1623590990
 GameObject:

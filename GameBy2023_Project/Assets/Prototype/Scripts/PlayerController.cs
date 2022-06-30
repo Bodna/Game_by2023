@@ -53,10 +53,16 @@ public class PlayerController : MonoBehaviour
         MyInput();
         SpeedControl();
 
+<<<<<<< Updated upstream:GameBy2023_Project/Assets/Prototype/Scripts/PlayerController.cs
+=======
+      // Debug.Log("velocity " + rb.velocity.x + rb.velocity.z);
+        Sprint();
+
+>>>>>>> Stashed changes:GameBy2023_Project/Assets/Scenes/Prototype/Scripts/PlayerController.cs
         // handle drag
         if (grounded)
         {
-            Sprint();
+            
             rb.drag = groundDrag;
             i = 0;
         }
@@ -120,7 +126,7 @@ public class PlayerController : MonoBehaviour
         // reset y velocity
         rb.velocity = new Vector3(rb.velocity.x, 0f, rb.velocity.z);
 
-        rb.AddForce(transform.up * jumpForce, ForceMode.Impulse);
+        rb.AddForce(transform.up * jumpForce , ForceMode.Impulse);
     }
     private void ResetJump()
     {

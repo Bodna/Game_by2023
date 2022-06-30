@@ -328,6 +328,7 @@
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll"
+"Assets/Camera_bomp.cs"
 "Assets/Scenes/Prototype/Scripts/CameraScript.cs"
 "Assets/Scenes/Prototype/Scripts/Camera_bomp.cs"
 "Assets/Scenes/Prototype/Scripts/FootSteps.cs"

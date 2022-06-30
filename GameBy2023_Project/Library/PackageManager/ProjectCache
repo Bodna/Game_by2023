@@ -5,16 +5,26 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< Updated upstream
       ticks: 637905459776507719
     m_Hash: 728776223
+=======
+      ticks: 637921732372389328
+    m_Hash: 522127374
+>>>>>>> Stashed changes
   m_LockFileStatus:
     m_FilePath: C:/Users/Utente/Desktop/Stuff/Games made by me/Game_by2023/game_by2023/Game_by2023/GameBy2023_Project/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< Updated upstream
       ticks: 637905459843919531
     m_Hash: 2249468046
+=======
+      ticks: 637921732372394327
+    m_Hash: 2956657157
+>>>>>>> Stashed changes
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
